@@ -1,0 +1,5 @@
+1.引入库
+	<script src="js/flexible.js"></script>
+	<script src="js/flexible_css.js"></script>
+2.iPhone dpr=2 1rem=75px；
+	宽高就用rem
